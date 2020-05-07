@@ -1,0 +1,36 @@
+body{
+	background-image: url(cars.jpg);
+	background-size: cover;
+	height: 100%;
+}
+h1{
+	font-weight: bolder;
+	color: white;
+}
+p{
+	color: white;
+	font-weight: bold;
+}
+.btn{
+	font-weight: :700;
+	border-radius: 300px;
+	background-color: #236767;
+}
+.mc-field-group{
+	text-align: center;
+	font-weight: bolder;
+	color: white;
+}
+.indicates-required{
+font-weight: bolder;
+	color: white;
+}
+.btn-primary:hover{
+background-color: #1C3E3E;
+transform: scale(1.1);
+}
+.tab{
+	text-align: center;
+	font-weight: bolder;
+	color: white;
+}
